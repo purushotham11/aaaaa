@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [PrimeO Automation Suite]">
+  <listeners>
+    <listener class-name="com.Listeners.TestSuiteListener"/>
+    <listener class-name="com.Listeners.ExtentReporterListener"/>
+    <listener class-name="atu.testng.reports.listeners.ATUReportsListener"/>
+    <listener class-name="atu.testng.reports.listeners.ConfigurationListener"/>
+    <listener class-name="atu.testng.reports.listeners.MethodListener"/>
+  </listeners>
+  <test name="Login">
+    <classes>
+      <class name="com.web.tests.LoginTest.LoginTest"/>
+      <class name="com.web.tests.Views.ViewsTest"/>
+    </classes>
+  </test> <!-- Login -->
+</suite> <!-- Failed suite [PrimeO Automation Suite] -->

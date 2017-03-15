@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XMLImportSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Publisher contentMode="2">
+   	 <PublisherID>Hilti_AG</PublisherID>
+   	 <PublisherToken>2232</PublisherToken>
+   	 <Language>EN</Language>
+   	 <Country>US</Country>
+   	 <ProductMaster>
+   		 <ProductRange>P0001</ProductRange>
+   		 <MaterialNumber>MN10</MaterialNumber>
+   		 <AssetDescription>Bohrhammer</AssetDescription>
+   		 <Manufacturer>Hilti</Manufacturer>
+   		 <Model>TE 10</Model>
+   		 <ImageReferenceNumber>nail</ImageReferenceNumber>
+   		 <AssetCategory>Asset</AssetCategory>
+   	 </ProductMaster>
+    </Publisher>
+</XMLImportSet>
+
+

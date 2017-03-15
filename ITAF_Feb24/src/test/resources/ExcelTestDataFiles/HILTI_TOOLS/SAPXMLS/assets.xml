@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMLImportSet>
+	<Publisher contentMode="1">
+		<PublisherID>Hilti AG</PublisherID>
+		<PublisherToken/>
+		<Customer syncMode="3">
+			<SalesOrganizationNumber>142432</SalesOrganizationNumber>
+			<CustomerNumber>${cirrus.customerNo}</CustomerNumber>
+			<CustomerName>
+				<Name1>API Testing</Name1>
+				<Name2>Construction142432</Name2>
+			</CustomerName>
+            <Asset>
+            <EquipmentNumber>${cirrus.equipmentnumber1}</EquipmentNumber>
+            <MaterialNumber>${cirrus.materialNumber}</MaterialNumber>
+            <SerialNumber>Serialnum001</SerialNumber>
+            <Description>Asset description</Description>
+            <Model>Cisonosettegiorniinuun'oranasettiman</Model>
+            <AssetFamilyDelimiter />
+            <AssetFamily>Group</AssetFamily>
+            <Quantity>1</Quantity>
+            <LocationCode>09</LocationCode>
+            <Currency>USD</Currency>
+            <CustomerSerialNumber>908988668</CustomerSerialNumber>
+            <HiltiToolStatus>active</HiltiToolStatus>
+            <Vendor>Cisonosettegiottiman</Vendor>
+            <Owned>
+               <PurchaseDate>2012-02-26</PurchaseDate>
+               <PurchaseOrderNumber>PO30933</PurchaseOrderNumber>
+               <WarrantyExpiration>2026-01-19</WarrantyExpiration>
+            </Owned>
+            <OnTrackScanCode>${cirrus.scancode1}</OnTrackScanCode>
+            <EquipmentNumberReplaced>09388823</EquipmentNumberReplaced>
+            <EquipmentOwner>Daitha Shankar</EquipmentOwner>
+         </Asset>
+         <Asset>
+            <EquipmentNumber>${cirrus.equipmentnumber2}</EquipmentNumber>
+            <MaterialNumber>${cirrus.materialNumber}</MaterialNumber>
+            <SerialNumber>Serialnum002</SerialNumber>
+            <Description>Akku-SC$belsC$ge WSR 650-A-2001</Description>
+            <Model>TE 561</Model>
+            <AssetFamilyDelimiter />
+            <AssetFamily>Default</AssetFamily>
+            <Quantity>1</Quantity>
+            <LocationCode />
+            <Currency>EUR</Currency>
+            <LineType>BOMC</LineType>
+            <CustomerSerialNumber>CSN-391002</CustomerSerialNumber>
+            <Fleet>
+               <FleetPurchaseOrderNumber>PO-000134</FleetPurchaseOrderNumber>
+               <DeliveryDate>2016-01-18</DeliveryDate>
+               <InventoryNumber>INV_001000</InventoryNumber>
+               <ExchangeDate>2026-01-19</ExchangeDate>
+               <OrganizationalReference>ORno01</OrganizationalReference>
+               <MasterContractNumber>Master1001</MasterContractNumber>
+               <SubContractNumber>1001</SubContractNumber>
+               <SubContractLineNumber>1001</SubContractLineNumber>
+               <CostCenter>FM-CC-03449999343434</CostCenter>
+               <MonthlyToolCost>11.524</MonthlyToolCost>
+               <LoanToolClaim>x</LoanToolClaim>
+               <RentalToolClaim>1001</RentalToolClaim>
+               <TheftClaim>X</TheftClaim>
+            </Fleet>
+            <OnTrackScanCode>${cirrus.scancode2}</OnTrackScanCode>
+            <EquipmentNumberReplaced>TESI1212</EquipmentNumberReplaced>
+            <EquipmentOwner>Daitha Shankar</EquipmentOwner>
+         </Asset>
+         <Asset>
+            <EquipmentNumber>${cirrus.equipmentnumber3}</EquipmentNumber>
+            <MaterialNumber>${cirrus.materialNumber}</MaterialNumber>
+            <SerialNumber>Serialnum003</SerialNumber>
+            <Description>Akkupaket B 24/2.0 NiCd</Description>
+            <Model>B 24/2.0</Model>
+            <AssetFamilyDelimiter />
+            <AssetFamily>Default</AssetFamily>
+            <Quantity>1</Quantity>
+            <LocationCode />
+            <Currency>USD</Currency>
+            <LineType />
+            <CustomerSerialNumber />
+            <NumberOfRepairs>0</NumberOfRepairs>
+            <AmountOfBilledRepairs>0.0</AmountOfBilledRepairs>
+            <AmountOfLastBilledRepair>0.0</AmountOfLastBilledRepair>
+            <ReferenceEquipmentNumber />
+            <HiltiToolStatus />
+            <Vendor>Hilti</Vendor>
+            <Rented>
+               <RentalOrderNumber />
+               <StartDate>2015-04-29</StartDate>
+               <ReturnDate>2025-09-30</ReturnDate>
+            </Rented>
+            <OnTrackScanCode />
+            <EquipmentNumberReplaced />
+            <EquipmentOwner>0010161532</EquipmentOwner>
+         </Asset>
+         <Asset>
+            <EquipmentNumber>${cirrus.equipmentnumber4}</EquipmentNumber>
+            <MaterialNumber>${cirrus.materialNumber}</MaterialNumber>
+            <SerialNumber>Serialnum004</SerialNumber>
+            <Description>FleetPurchasenumber Syncmode 3</Description>
+            <Model>Model600</Model>
+            <AssetFamilyDelimiter />
+            <AssetFamily>Group</AssetFamily>
+            <Quantity>1</Quantity>
+            <LocationCode />
+            <Currency>EURO</Currency>
+            <CustomerSerialNumber>alter3</CustomerSerialNumber>
+            <Vendor>Hilti</Vendor>
+            <Loaned>
+               <LoanerOrderNumber>100MDHMDH</LoanerOrderNumber>
+               <StartDate>2015-06-16</StartDate>
+               <ReturnDate>2026-06-16</ReturnDate>
+            </Loaned>
+            <OnTrackScanCode />
+            <EquipmentNumberReplaced>TESI600123</EquipmentNumberReplaced>
+            <EquipmentOwner>Priyanka</EquipmentOwner>
+         </Asset>
+		  <Asset>
+            <EquipmentNumber>${cirrus.equipmentnumber5}</EquipmentNumber>
+            <MaterialNumber>MN108092804234</MaterialNumber>
+            <SerialNumber>Serialnum005</SerialNumber>
+            <Description>Akku-SC$belsC$ge WSR 650-A-2001</Description>
+            <Model>TE 561</Model>
+            <AssetFamilyDelimiter />
+            <AssetFamily>Default</AssetFamily>
+            <Quantity>1</Quantity>
+            <LocationCode />
+            <Currency>EUR</Currency>
+            <LineType>BOMC</LineType>
+            <CustomerSerialNumber>CSN-391002</CustomerSerialNumber>
+            <Fleet>
+               <FleetPurchaseOrderNumber>PO-000134</FleetPurchaseOrderNumber>
+               <DeliveryDate>2016-01-18</DeliveryDate>
+               <InventoryNumber>INV_001000</InventoryNumber>
+               <ExchangeDate>2016-01-19</ExchangeDate>
+               <OrganizationalReference>ORno01</OrganizationalReference>
+               <MasterContractNumber>Master1001</MasterContractNumber>
+               <SubContractNumber>1001</SubContractNumber>
+               <SubContractLineNumber>1001</SubContractLineNumber>
+               <CostCenter>FM-CC-03449999343434</CostCenter>
+               <MonthlyToolCost>11.524</MonthlyToolCost>
+               <LoanToolClaim>x</LoanToolClaim>
+               <RentalToolClaim>1001</RentalToolClaim>
+               <TheftClaim>X</TheftClaim>
+            </Fleet>
+            <OnTrackScanCode>${cirrus.scancode5}</OnTrackScanCode>
+            <EquipmentNumberReplaced>TESI1212</EquipmentNumberReplaced>
+            <EquipmentOwner>Daitha Shankar</EquipmentOwner>
+         </Asset>
+		 <Asset>
+            <EquipmentNumber>${cirrus.equipmentnumber6}</EquipmentNumber>
+            <MaterialNumber>MN1080928</MaterialNumber>
+            <SerialNumber>Serialnum010</SerialNumber>
+            <Description>Akku-SC$belsC$ge WSR 650-A-2001</Description>
+            <Model>TE 561</Model>
+            <AssetFamilyDelimiter />
+            <AssetFamily>Default</AssetFamily>
+            <Quantity>1</Quantity>
+            <LocationCode />
+            <Currency>EUR</Currency>
+            <LineType>BOMC</LineType>
+            <CustomerSerialNumber>CSN-391002</CustomerSerialNumber>
+            <Fleet>
+               <FleetPurchaseOrderNumber>PO-000134</FleetPurchaseOrderNumber>
+               <DeliveryDate>2016-01-18</DeliveryDate>
+               <InventoryNumber>INV_001000</InventoryNumber>
+               <ExchangeDate>2016-01-19</ExchangeDate>
+               <OrganizationalReference>ORno01</OrganizationalReference>
+               <MasterContractNumber>Master1001</MasterContractNumber>
+               <SubContractNumber>1001</SubContractNumber>
+               <SubContractLineNumber>1001</SubContractLineNumber>
+               <CostCenter>FM-CC-03449999343434</CostCenter>
+               <MonthlyToolCost>11.524</MonthlyToolCost>
+               <LoanToolClaim>x</LoanToolClaim>
+               <RentalToolClaim>1001</RentalToolClaim>
+               <TheftClaim>X</TheftClaim>
+            </Fleet>
+            <OnTrackScanCode>${cirrus.scancode6}</OnTrackScanCode>
+            <EquipmentNumberReplaced>TESI1212</EquipmentNumberReplaced>
+            <EquipmentOwner>Daitha Shankar</EquipmentOwner>
+         </Asset>
+		  <Asset>
+            <EquipmentNumber>${cirrus.equipmentnumber7}</EquipmentNumber>
+            <MaterialNumber>MN1080928</MaterialNumber>
+            <SerialNumber>Serialnum010</SerialNumber>
+            <Description>Akku-SC$belsC$ge WSR 650-A-2001</Description>
+            <Model>TE 561</Model>
+            <AssetFamilyDelimiter />
+            <AssetFamily>Default</AssetFamily>
+            <Quantity>1</Quantity>
+            <LocationCode />
+            <Currency>EUR</Currency>
+            <LineType>BOMC</LineType>
+            <CustomerSerialNumber>CSN-391002</CustomerSerialNumber>
+            <Fleet>
+               <FleetPurchaseOrderNumber>PO-000134</FleetPurchaseOrderNumber>
+               <DeliveryDate>2016-01-18</DeliveryDate>
+               <InventoryNumber>INV_001000</InventoryNumber>
+               <ExchangeDate>2016-01-19</ExchangeDate>
+               <OrganizationalReference>ORno01</OrganizationalReference>
+               <MasterContractNumber>Master1001</MasterContractNumber>
+               <SubContractNumber>1001</SubContractNumber>
+               <SubContractLineNumber>1001</SubContractLineNumber>
+               <CostCenter>FM-CC-03449999343434</CostCenter>
+               <MonthlyToolCost>11.524</MonthlyToolCost>
+               <LoanToolClaim>x</LoanToolClaim>
+               <RentalToolClaim>1001</RentalToolClaim>
+               <TheftClaim>X</TheftClaim>
+            </Fleet>
+            <OnTrackScanCode>${cirrus.scancode7}</OnTrackScanCode>
+            <EquipmentNumberReplaced>TESI1212</EquipmentNumberReplaced>
+            <EquipmentOwner>Daitha Shankar</EquipmentOwner>
+         </Asset>
+		<Asset>
+            <EquipmentNumber>${cirrus.equipmentnumber8}</EquipmentNumber>
+            <MaterialNumber>${cirrus.materialNumber}</MaterialNumber>
+            <SerialNumber>serialnum011</SerialNumber>
+            <Description>Akku-SC$belsC$ge WSR 650-A-2001</Description>
+            <Model>TE 561</Model>
+            <AssetFamilyDelimiter />
+            <AssetFamily>Default</AssetFamily>
+            <Quantity>1</Quantity>
+            <LocationCode />
+            <Currency>EUR</Currency>
+            <LineType>BOMC</LineType>
+            <CustomerSerialNumber>CSN-391002</CustomerSerialNumber>
+            <Fleet>
+               <FleetPurchaseOrderNumber>PO-000134</FleetPurchaseOrderNumber>
+               <DeliveryDate>2016-01-18</DeliveryDate>
+               <InventoryNumber>INV_001000</InventoryNumber>
+               <ExchangeDate>2016-01-19</ExchangeDate>
+               <OrganizationalReference>ORno01</OrganizationalReference>
+               <MasterContractNumber>Master1001</MasterContractNumber>
+               <SubContractNumber>1001</SubContractNumber>
+               <SubContractLineNumber>1001</SubContractLineNumber>
+               <CostCenter>FM-CC-03449999343434</CostCenter>
+               <MonthlyToolCost>11.524</MonthlyToolCost>
+               <LoanToolClaim>x</LoanToolClaim>
+               <RentalToolClaim>1001</RentalToolClaim>
+               <TheftClaim>X</TheftClaim>
+            </Fleet>
+            <OnTrackScanCode>${cirrus.scancode8}</OnTrackScanCode>
+            <EquipmentNumberReplaced>TESI1212</EquipmentNumberReplaced>
+            <EquipmentOwner>Daitha Shankar</EquipmentOwner>
+         </Asset>
+		<Asset>
+            <EquipmentNumber>${cirrus.equipmentnumber9}</EquipmentNumber>
+            <MaterialNumber>${cirrus.materialNumber}</MaterialNumber>
+            <SerialNumber>Serialnum993</SerialNumber>
+            <Description>FleetPurchasenumber Syncmode 3</Description>
+            <Model>Model600</Model>
+            <AssetFamilyDelimiter />
+            <AssetFamily>Group</AssetFamily>
+            <Quantity>1</Quantity>
+            <LocationCode />
+            <Currency>EURO</Currency>
+            <CustomerSerialNumber>alter3</CustomerSerialNumber>
+            <Vendor>Hilti</Vendor>
+            <Loaned>
+               <LoanerOrderNumber>100MDHMDH</LoanerOrderNumber>
+               <StartDate>2015-06-16</StartDate>
+               <ReturnDate>2026-06-16</ReturnDate>
+            </Loaned>
+            <OnTrackScanCode />
+            <EquipmentNumberReplaced>TESI600123</EquipmentNumberReplaced>
+            <EquipmentOwner>Priyanka</EquipmentOwner>
+         </Asset>
+		  <Asset>
+            <EquipmentNumber>${cirrus.equipmentnumber10}</EquipmentNumber>
+            <MaterialNumber>${cirrus.materialNumber}</MaterialNumber>
+            <SerialNumber>Serialnum994</SerialNumber>
+            <Description>Akku-SC$belsC$ge WSR 650-A-2001</Description>
+            <Model>TE 561</Model>
+            <AssetFamilyDelimiter />
+            <AssetFamily>Default</AssetFamily>
+            <Quantity>1</Quantity>
+            <LocationCode />
+            <Currency>EUR</Currency>
+            <LineType>BOMC</LineType>
+            <CustomerSerialNumber>CSN-391002</CustomerSerialNumber>
+            <Fleet>
+               <FleetPurchaseOrderNumber>PO-000134</FleetPurchaseOrderNumber>
+               <DeliveryDate>2016-01-18</DeliveryDate>
+               <InventoryNumber>INV_001000</InventoryNumber>
+               <ExchangeDate>2016-01-19</ExchangeDate>
+               <OrganizationalReference>ORno01</OrganizationalReference>
+               <MasterContractNumber>Master1001</MasterContractNumber>
+               <SubContractNumber>1001</SubContractNumber>
+               <SubContractLineNumber>1001</SubContractLineNumber>
+               <CostCenter>FM-CC-03449999343434</CostCenter>
+               <MonthlyToolCost>11.524</MonthlyToolCost>
+               <LoanToolClaim>x</LoanToolClaim>
+               <RentalToolClaim>1001</RentalToolClaim>
+               <TheftClaim>X</TheftClaim>
+            </Fleet>
+            <OnTrackScanCode>${cirrus.scancode10}</OnTrackScanCode>
+            <EquipmentNumberReplaced>TESI1212</EquipmentNumberReplaced>
+            <EquipmentOwner>Daitha Shankar</EquipmentOwner>
+         </Asset>
+         <Asset>
+            <EquipmentNumber>${cirrus.equipmentnumber11}</EquipmentNumber>
+            <MaterialNumber>${cirrus.materialNumber}</MaterialNumber>
+            <SerialNumber>Serialnum055</SerialNumber>
+            <Description>Akku-SC$belsC$ge WSR 650-A-2001</Description>
+            <Model>TE 561</Model>
+            <AssetFamilyDelimiter />
+            <AssetFamily>Default</AssetFamily>
+            <Quantity>1</Quantity>
+            <LocationCode />
+            <Currency>EUR</Currency>
+            <LineType>BOMC</LineType>
+            <CustomerSerialNumber>CSN-391002</CustomerSerialNumber>
+            <Fleet>
+               <FleetPurchaseOrderNumber>PO-000134</FleetPurchaseOrderNumber>
+               <DeliveryDate>2016-01-18</DeliveryDate>
+               <InventoryNumber>INV_001000</InventoryNumber>
+               <ExchangeDate>2026-01-19</ExchangeDate>
+               <OrganizationalReference>ORno01</OrganizationalReference>
+               <MasterContractNumber>Master1001</MasterContractNumber>
+               <SubContractNumber>1001</SubContractNumber>
+               <SubContractLineNumber>1001</SubContractLineNumber>
+               <CostCenter>FM-CC-03449999343434</CostCenter>
+               <MonthlyToolCost>11.524</MonthlyToolCost>
+               <LoanToolClaim>x</LoanToolClaim>
+               <RentalToolClaim>1001</RentalToolClaim>
+               <TheftClaim>X</TheftClaim>
+            </Fleet>
+            <OnTrackScanCode>${cirrus.scancode11}</OnTrackScanCode>
+            <EquipmentNumberReplaced>TESI1212</EquipmentNumberReplaced>
+            <EquipmentOwner>Daitha Shankar</EquipmentOwner>
+         </Asset>			
+		</Customer>
+	</Publisher>
+</XMLImportSet>

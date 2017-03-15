@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="84043" started-at="2017-03-15T07:44:31Z" finished-at="2017-03-15T07:45:55Z">
+    <groups>
+      <group name="Sanity">
+        <method signature="ViewTests.creatingView()[pri:1, instance:com.web.tests.Views.ViewTests@4fe3c938]" name="creatingView" class="com.web.tests.Views.ViewTests"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test name="Default test" duration-ms="84043" started-at="2017-03-15T07:44:31Z" finished-at="2017-03-15T07:45:55Z">
+      <class name="com.web.tests.Views.ViewTests">
+        <test-method status="PASS" signature="ATU()[pri:0, instance:com.web.tests.Views.ViewTests@4fe3c938]" name="ATU" is-config="true" duration-ms="39" started-at="2017-03-15T13:14:31Z" finished-at="2017-03-15T13:14:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ATU -->
+        <test-method status="PASS" signature="testMethodPrerequisites()[pri:0, instance:com.web.tests.Views.ViewTests@4fe3c938]" name="testMethodPrerequisites" is-config="true" duration-ms="11479" started-at="2017-03-15T13:14:31Z" finished-at="2017-03-15T13:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodPrerequisites -->
+        <test-method status="PASS" signature="creatingView()[pri:1, instance:com.web.tests.Views.ViewTests@4fe3c938]" name="creatingView" duration-ms="72480" started-at="2017-03-15T13:14:43Z" finished-at="2017-03-15T13:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingView -->
+      </class> <!-- com.web.tests.Views.ViewTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
